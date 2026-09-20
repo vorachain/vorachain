@@ -1,6 +1,6 @@
 # VORA Chain
 
-**A public EVM Layer 1 — chain ID 3318, native coin VRA.**
+**A public EVM Layer 2 — chain ID 3318, native coin VRA.**
 
 VORA Chain runs Hyperledger Besu with QBFT consensus: two-second blocks, immediate finality, and full
 EIP-155 / EIP-1559 support. Everything on the network is open to inspect through a public RPC endpoint
